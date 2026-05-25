@@ -1,2 +1,15 @@
-# equity-research
-Equity research reports built independently as a high school junior. Covers company snapshots, peer comparisons, DCF valuation, and full institutional-style reports. Sectors: AI infrastructure, fintech, consumer. Each unit includes a written memo, financial model, and supporting analysis.
+# Finance Research
+
+Independent equity research and quantitative finance work built during high school.
+
+## Equity Research
+Company snapshots, peer comparisons, DCF valuation models, and full research reports.
+Sectors: AI infrastructure, fintech, consumer.
+
+## Quant Finance
+Python-based tools including stock screeners, scoring models, momentum backtests,
+factor analysis, and portfolio optimization.
+
+---
+Each report includes a written memo and financial model.
+Each quant project includes working Python code and a written summary.
